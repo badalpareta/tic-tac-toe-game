@@ -10,9 +10,6 @@
     font: 14px "Century Gothic", Futura, sans-serif;
   }
   
-  ol, ul {
-    padding-left: 30px;
-  }
   
   .board-row:after {
     clear: both;
@@ -55,10 +52,10 @@
     place-content: center;
     align-items: center;
     height: 100vh;
-  background: darkcyan;
+    background: darkcyan;
   }
   
   .game-info {
-    margin-left: 20px;
+    margin-left: 0px;
   }
   
